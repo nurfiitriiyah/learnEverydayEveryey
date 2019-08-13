@@ -1,0 +1,21 @@
+{
+  "name": "learneveryday",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^8.0.0",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "firebase": "^6.3.5",
+    "http-errors": "~1.6.3",
+    "knex": "^0.19.1",
+    "morgan": "~1.9.1",
+    "pg": "^7.12.0"
+  }
+}
