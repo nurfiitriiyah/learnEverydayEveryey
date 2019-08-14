@@ -8,6 +8,7 @@ Require :
 <h3>Firebase</h3>
 <hr>
 <h3>Message Broker - RabbitMQ</h3>
+<p>./sandbox/rabbitMq</p>
 <li>Single Queue</li>
 <li>Single Queue and Multiple Cons</li>
 <li>Multi Queue and Multiple Cons</li>
